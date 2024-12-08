@@ -1,0 +1,10 @@
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\макароны\создание массива тест\bin\Debug\создание массива тест.exe.config
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\макароны\создание массива тест\bin\Debug\создание массива тест.exe
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\макароны\создание массива тест\bin\Debug\создание массива тест.pdb
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\макароны\создание массива тест\obj\Debug\создание массива тест.csproj.AssemblyReference.cache
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\макароны\создание массива тест\obj\Debug\создание_массива_тест.Form1.resources
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\макароны\создание массива тест\obj\Debug\создание_массива_тест.Properties.Resources.resources
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\макароны\создание массива тест\obj\Debug\создание массива тест.csproj.GenerateResource.cache
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\макароны\создание массива тест\obj\Debug\создание массива тест.csproj.CoreCompileInputs.cache
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\макароны\создание массива тест\obj\Debug\создание массива тест.exe
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\макароны\создание массива тест\obj\Debug\создание массива тест.pdb
